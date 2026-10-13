@@ -1,0 +1,63 @@
+FONTI DELLE IMMAGINI – TEST SUL BAROCCO
+
+Immagini provenienti da Wikimedia Commons. Le attribuzioni e le licenze derivano dai metadati delle rispettive pagine.
+
+File locale: images/apollo_dafne.jpg
+Titolo originale: File:Bernini Apollo and Daphne.jpg
+Autore/fotografo: G41rn8
+Licenza: CC BY-SA 4.0
+Fonte: https://commons.wikimedia.org/wiki/File:Bernini_Apollo_and_Daphne.jpg
+
+File locale: images/baldacchino.jpg
+Titolo originale: File:St. Peter's Baldachin by Bernini.jpg
+Autore/fotografo: Jorge Royan
+Licenza: CC BY-SA 3.0
+Fonte: https://commons.wikimedia.org/wiki/File:St._Peter%27s_Baldachin_by_Bernini.jpg
+
+File locale: images/barcaccia.jpg
+Titolo originale: File:Fontana della Barcaccia with tourists.jpg
+Autore/fotografo: Luis Ehlen
+Licenza: CC BY-SA 3.0
+Fonte: https://commons.wikimedia.org/wiki/File:Fontana_della_Barcaccia_with_tourists.jpg
+
+File locale: images/bari.jpg
+Titolo originale: File:Caravaggio Cardsharps.jpg
+Autore/fotografo: Robert LaPrelle
+Licenza: Public domain
+Fonte: https://commons.wikimedia.org/wiki/File:Caravaggio_Cardsharps.jpg
+
+File locale: images/canestra.jpg
+Titolo originale: File:Caravaggio - Natura morta con frutta (collezione dell’Ambrosiana).jpg
+Autore/fotografo: Caravaggio
+Licenza: Public domain
+Fonte: https://commons.wikimedia.org/wiki/File:Caravaggio_-_Natura_morta_con_frutta_(collezione_dell%E2%80%99Ambrosiana).jpg
+
+File locale: images/crocifissione.jpg
+Titolo originale: File:Caravaggio, Crucifixion of Saint Peter.jpg
+Autore/fotografo: Oursana
+Licenza: Public domain
+Fonte: https://commons.wikimedia.org/wiki/File:Caravaggio,_Crucifixion_of_Saint_Peter.jpg
+
+File locale: images/pellegrini.jpg
+Titolo originale: File:S Agostino Caravaggio Madonna dei pellegrini.jpg
+Autore/fotografo: Peter1936F
+Licenza: CC BY-SA 4.0
+Fonte: https://commons.wikimedia.org/wiki/File:S_Agostino_Caravaggio_Madonna_dei_pellegrini.jpg
+
+File locale: images/piazza_navona.jpg
+Titolo originale: File:Piazza Navona Rome.jpg
+Autore/fotografo: N i c o l a
+Licenza: CC BY 2.0
+Fonte: https://commons.wikimedia.org/wiki/File:Piazza_Navona_Rome.jpg
+
+File locale: images/san_matteo.jpg
+Titolo originale: File:Caravaggio — The Calling of Saint Matthew.jpg
+Autore/fotografo: Gleb Simonov
+Licenza: CC0
+Fonte: https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg
+
+File locale: images/santivo.jpg
+Titolo originale: File:Sant'Ivo alla Sapienza (Rome) - Dome.jpg
+Autore/fotografo: Architas
+Licenza: CC BY-SA 4.0
+Fonte: https://commons.wikimedia.org/wiki/File:Sant%27Ivo_alla_Sapienza_(Rome)_-_Dome.jpg

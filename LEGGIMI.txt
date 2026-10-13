@@ -1,0 +1,37 @@
+MISSIONE BAROCCO – VERIFICA INTERATTIVA PER LA TERZA MEDIA
+
+CONTENUTO
+- index.html: applicazione completa
+- images: 10 immagini scaricate da Wikimedia Commons
+- fonts: carattere Atkinson Hyperlegible
+- FONTI_IMMAGINI.txt: autore, licenza e collegamento di ogni immagine
+- LICENZE_FONT.txt: licenza del carattere
+- MATERIALI_UTILIZZATI.txt: materiali didattici usati per i contenuti
+- codice_index_backup.txt: copia di sicurezza del codice
+
+CARATTERISTICHE
+- banca di 40 domande;
+- 18 domande casuali e bilanciate per ogni verifica;
+- ordine delle domande e delle quattro risposte sempre mescolato;
+- fotografia in ogni domanda;
+- spiegazione immediata dopo la risposta;
+- possibilità di andare avanti e indietro senza perdere le risposte;
+- risultato finale e revisione completa;
+- carattere modificabile e ingrandibile;
+- modalità facilitata, temi cromatici, righello, maschera e lettura vocale;
+- nessun limite di tempo;
+- nessuna raccolta di dati personali.
+
+PUBBLICAZIONE SU GITHUB PAGES
+1. Crea un repository pubblico chiamato missione-barocco-terza-media.
+2. Estrai lo ZIP.
+3. Carica nella radice del repository TUTTO il contenuto estratto.
+4. Controlla che index.html sia nella pagina principale del repository.
+5. Apri Settings > Pages.
+6. Scegli Deploy from a branch, main e /(root), quindi Save.
+
+DESCRIZIONE PER GITHUB
+Verifica interattiva di Arte e Immagine sul Barocco per la terza media: 40 domande, 18 quesiti casuali, opere da Wikimedia Commons, spiegazioni e strumenti di accessibilità.
+
+NOTA
+Le risposte e il risultato restano nel browser. Per conservare il risultato, lo studente può usare il pulsante “Stampa risultato” oppure mostrarlo al docente.
